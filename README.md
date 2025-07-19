@@ -13,12 +13,12 @@
  
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shahriar+Sadman😎..;Nice+to+meet+you😁!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Farid+Ishraqe+Zarif😎..;Nice+to+meet+you😁!&center=true&size=30">
 </a>
 </h1>
  
 <p align="center">
-<a target="_blank"href="https://www.linkedin.com/in/shahriar-sadman-dihan-3950aa222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://www.linkedin.com/in/farid-ishraqe-zarif-134189292/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:shahriarsadmandihan2016@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
  
