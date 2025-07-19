@@ -86,7 +86,7 @@ Things I use on a daily basis
  
 ## 🏆 GitHub Trophies
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SSDihan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishraqezarif&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  
 ## 🗂️ Highlight Projects
  
